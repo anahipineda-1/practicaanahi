@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>Problema-Ejemplo de un commit</title>
+  <title>Problema</title>
 </head>
 
 <body>
