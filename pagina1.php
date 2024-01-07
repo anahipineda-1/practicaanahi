@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <title>Problema</title>
+  <title>Problema - Lizeth Anahí</title>
 </head>
 
 <body>
